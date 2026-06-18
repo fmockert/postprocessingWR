@@ -1,7 +1,8 @@
 # Ensemble model output statistics and ensemble copula coupling for post-processing of weather regime forecasts
 This repository provides python code for the post-processing of probabilistic sub-seasonal weather regime forecasts. The code has been written for the paper
 
-!!!placeholder arxiv !!!
+Mockert, F., Grams, C.M., Lerch, S., Osman, M. & Quinting, J. (2024) Multivariate post–processing of probabilistic sub-seasonal weather regime forecasts. Quarterly Journal of the Royal Meteorological Society, 150(765), 4771-4787. Available from: https://doi.org/10.1002/qj.4840
+
 
 # Data
 The data which is used for the above mentioned paper is not publically available, please contact fabian.mockert@kit.edu in case you are interested in the raw data.
